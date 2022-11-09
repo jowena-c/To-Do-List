@@ -67,6 +67,7 @@ function addTodo() {
     // delBtn.textContent = "Delete";
     delBtn.classList = "delBtn";
     delBtn.style.borderRadius = "5px"
+    delBtn.style.borderColor = "#E16E58"
     delBtn.style.backgroundColor = "#E16E58"
     delBtn.style.color = "#FFFFFF"
     delBtn.style.padding = "5px 8px"
